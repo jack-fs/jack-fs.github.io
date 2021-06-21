@@ -8,7 +8,6 @@ title: Home
 
 Hello, I'm Jack! I like music and maths. 
 
-This is a site for me to keep track of my web presence - it's a work in progress.
+Excuse the sparsity of this site -- it's a work in progress.
 
-Head over to the [Music](music.md) page for information on my music,
-or to the [Technical Work](tech.md) page for my technical work.
+Head over to the [Music](music.md) page or the [Technical Work](tech.md) page for more info!
