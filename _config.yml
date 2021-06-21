@@ -33,9 +33,11 @@ plugins:
 
 
 minima:
-  social_links:
-    github:  "jack-fs"
-    youtube_channel: "UCGwwHA1rpZaTcScX7CLuAKg"
+    skin: classic
+    skindark: dark
+    social_links:
+        github:  "jack-fs"
+        youtube_channel: "UCGwwHA1rpZaTcScX7CLuAKg"
     
     
 # Exclude from processing.
